@@ -1,0 +1,25 @@
+@media screen and (max-width:560px) {
+    nav ul {
+        width: 300px;
+        padding: 0em;
+        gap:0.5em;
+        font-size: 1em;  
+    }
+   
+    header{
+        background-size:650px;
+    }
+   header h1{
+       font-size: 1em;
+    }
+    
+
+    body aside{
+        width: 100%;
+    }
+    aside{
+        display: none;
+    }
+    
+    
+}
